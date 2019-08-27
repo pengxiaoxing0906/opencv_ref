@@ -1,0 +1,3 @@
+/home/pxx/Documents/opencv/ch1/show_image/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pxx/Documents/opencv/ch1/show_image/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pxx/Documents/opencv/ch1/show_image/cmake-build-debug/CMakeFiles/show_image.dir

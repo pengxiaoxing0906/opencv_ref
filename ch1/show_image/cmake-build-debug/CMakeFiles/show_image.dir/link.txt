@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/show_image.dir/main.cpp.o  -o show_image 

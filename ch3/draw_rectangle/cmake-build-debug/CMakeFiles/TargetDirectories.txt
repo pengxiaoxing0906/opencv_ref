@@ -1,0 +1,3 @@
+/home/pxx/Documents/opencv/ch3/draw_rectangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pxx/Documents/opencv/ch3/draw_rectangle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pxx/Documents/opencv/ch3/draw_rectangle/cmake-build-debug/CMakeFiles/draw_rectangle.dir

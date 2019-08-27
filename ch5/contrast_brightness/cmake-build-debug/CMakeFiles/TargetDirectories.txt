@@ -1,0 +1,3 @@
+/home/pxx/Documents/opencv/ch5/contrast_brightness/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pxx/Documents/opencv/ch5/contrast_brightness/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pxx/Documents/opencv/ch5/contrast_brightness/cmake-build-debug/CMakeFiles/contrast_brightness.dir

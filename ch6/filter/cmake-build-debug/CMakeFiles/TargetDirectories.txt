@@ -1,0 +1,3 @@
+/home/pxx/Documents/opencv/ch6/filter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pxx/Documents/opencv/ch6/filter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pxx/Documents/opencv/ch6/filter/cmake-build-debug/CMakeFiles/filter.dir
